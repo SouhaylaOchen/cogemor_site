@@ -181,7 +181,7 @@
     <div class="row">
       <div class="col-lg-6">
         <p class="lead">
-          Fondée en <strong>2015</strong> et basée à <strong>Al Arouit (Nador)</strong>, 
+          Fondée en <strong>2015</strong> et basée à <strong>Taza (Fes)</strong>, 
           <strong>COGEMOR</strong> est une société privée spécialisée dans le commerce et 
           la distribution de <strong>produits agricoles</strong>.
         </p>
@@ -284,7 +284,7 @@
             <i class="fas fa-map-marker-alt"></i>
           </div>
           <h4>Adresse</h4>
-          <p>Souk bani-oukki, A9 Kissaria Rue Khattabi<br>Al Arouit - Nador, Maroc</p>
+          <p>Hey Asalam, A9 Kissaria Rue Khattabi<br>Taza - Fes, Maroc</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 mb-4">
@@ -293,9 +293,9 @@
             <i class="fas fa-phone"></i>
           </div>
           <h4>Téléphones</h4>
-          <p>Fixe: <a href="tel:+212536363835">05 36 36 38 35</a><br>
-          Mobile: <a href="tel:+212661423248">06 61 42 32 48</a><br>
-          Mobile: <a href="tel:+212661746197">06 61 74 61 97</a></p>
+          <p>Fixe: <a href="tel:+212536363835">05 54 76 34 98</a><br>
+          Mobile: <a href="tel:+212661423248">06 44 76 94 55</a><br>
+          Mobile: <a href="tel:+212661746197">06 33 72 91 97</a></p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 mb-4">
@@ -304,7 +304,7 @@
             <i class="fas fa-envelope"></i>
           </div>
           <h4>Email</h4>
-          <p><a href="mailto:Chamllali@hotmail.fr">Chamllali@hotmail.fr</a></p>
+          <p><a href="mailto:Chamllali@hotmail.fr">Entreprisetaza@gmail.com</a></p>
           <div class="social-links mt-3">
             <a href="#"><i class="fab fa-facebook-f"></i></a>
             <a href="#"><i class="fab fa-twitter"></i></a>
